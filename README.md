@@ -72,4 +72,4 @@ Para retirar la lente, gira la pieza que la sujeta un cuarto de vuelta hacia la 
 
 **Contacto:** jossoca@gmail.com
 
-**Descarga un pdf del manual:** [Descarga](https://github.com/jossoca/Luumscope/blob/main/manual.pdf)
+**Descarga un pdf del manual:** [Descarga](https://raw.githubusercontent.com/jossoca/Luumscope/main/manual.pdf)
